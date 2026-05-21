@@ -1,6 +1,5 @@
 public class userName {
      public static void main(String[] args) {
-         System.out.println("jsb");
-          System.out.println("jsb02");
+         System.out.println("传入");
     }
 }
